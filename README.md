@@ -1,9 +1,6 @@
 # Machine-Learning-For-Everybody
 
-<br>
-<br>
-
-    This is a folder 📂 that contains the codes 🧑‍💻, data files 🔢 and notes 📝 from the course that was sponsored by the FreeCodeCamp and taught by Kylie Ying. 👩‍🏫
+This is a folder 📂 that contains the codes 🧑‍💻, data files 🔢 and notes 📝 from the course that was sponsored by the FreeCodeCamp and taught by Kylie Ying. 👩‍🏫
     
 <br>
 <br>
@@ -59,12 +56,6 @@
 ⌨️ K-Means and PCA Implementations
 </pre>
 
-
-
-
-
-
-<br>
 <br>
 
 
