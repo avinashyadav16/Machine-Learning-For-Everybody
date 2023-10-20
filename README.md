@@ -1,28 +1,8 @@
 # Machine-Learning-For-Everybody
 
 This is a folder 📂 that contains the codes 🧑‍💻, data files 🔢 and notes 📝 from the course that was sponsored by the FreeCodeCamp and taught by Kylie Ying. 👩‍🏫
-    
-<br>
-<br>
-    
-    
 
 
-
-
-## 📌📌 Check out the course on YouTube 👇👇
-
-<h2 align="center"> 
-    <b> 
-        <a 
-        href="https://youtu.be/i_LwzRVP7bg?feature=shared" target="_blank">
-            Machine Learning for Everybody Full Course
-            </a> 
-    </b> 
-</h2>
-
-
-<br>
 <br>
 
 
@@ -56,11 +36,12 @@ This is a folder 📂 that contains the codes 🧑‍💻, data files 🔢 and n
 ⌨️ K-Means and PCA Implementations
 </pre>
 
+
 <br>
 
 
-------------------------
-------------------------
+-----------------------------------------------------------------------------------------------------------------------------
+
 
 <br>
 
@@ -77,3 +58,31 @@ This is a folder 📂 that contains the codes 🧑‍💻, data files 🔢 and n
 ** NOTE: 
         For the bikes dataset, please open the downloaded csv file and remove special characters.
 </pre>
+
+
+<br>
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+<br>
+
+
+## 📌📌 Check out the full course on YouTube 👇👇
+
+<h2 align="center"> 
+    <b> 
+        <a 
+        href="https://youtu.be/i_LwzRVP7bg?feature=shared" target="_blank">
+            Machine Learning for Everybody Full Course
+            </a> 
+    </b> 
+</h2>
+
+<br>
+<br>
+
+-----------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
+
