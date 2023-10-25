@@ -1,27 +1,7 @@
 # Machine-Learning-For-Everybody
 
-This is a folder 📂 that contains the codes 🧑‍💻, data files 🔢 and notes 📝 from the course that was sponsored by the FreeCodeCamp and taught by Kylie Ying. 👩‍🏫
+This is a folder 📂 that contains the <code>codes</code> 🧑‍💻, <code>data files </code>🔢 and <code>notes </code>📝 from the course that was sponsored by the FreeCodeCamp and taught by <b>Kylie Ying.</b> 👩‍🏫
     
-<br>
-<br>
-    
-    
-
-
-
-
-## 📌📌 Check out the course on YouTube 👇👇
-
-<h2 align="center"> 
-    <b> 
-        <a 
-        href="https://youtu.be/i_LwzRVP7bg?feature=shared" target="_blank">
-            Machine Learning for Everybody Full Course
-            </a> 
-    </b> 
-</h2>
-
-
 <br>
 <br>
 
@@ -41,15 +21,15 @@ This is a folder 📂 that contains the codes 🧑‍💻, data files 🔢 and n
 ⌨️ Naive Bayes
 ⌨️ Naive Bayes Implementation
 ⌨️ Logistic Regression
-⌨️ Log Regression Implementation
+⌨️ Logistic Regression Implementation
 ⌨️ Support Vector Machine
 ⌨️ SVM Implementation
 ⌨️ Neural Networks
 ⌨️ Tensorflow
 ⌨️ Classification NN using Tensorflow
 ⌨️ Linear Regression
-⌨️ Lin Regression Implementation
-⌨️ Lin Regression using a Neuron
+⌨️ Linear Regression Implementation
+⌨️ Linear Regression using a Neuron
 ⌨️ Regression NN using Tensorflow
 ⌨️ K-Means Clustering
 ⌨️ Principal Component Analysis
@@ -59,8 +39,7 @@ This is a folder 📂 that contains the codes 🧑‍💻, data files 🔢 and n
 <br>
 
 
-------------------------
-------------------------
+
 
 <br>
 
@@ -77,3 +56,24 @@ This is a folder 📂 that contains the codes 🧑‍💻, data files 🔢 and n
 ** NOTE: 
         For the bikes dataset, please open the downloaded csv file and remove special characters.
 </pre>
+
+
+<br>
+<br>
+
+
+## 📌 Check out the course on YouTube 👇👇
+
+<h2 align="center"> 
+    <b> 
+        <a 
+        href="https://youtu.be/i_LwzRVP7bg?feature=shared" target="_blank">
+            Machine Learning for Everybody
+            </a> 
+    </b>
+    <br><br>
+</h2>
+
+-----------------------------
+
+
